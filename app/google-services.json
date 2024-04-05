@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341556057102",
+    "project_id": "store-be76a",
+    "storage_bucket": "store-be76a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341556057102:android:220c33983f067fedd7d85f",
+        "android_client_info": {
+          "package_name": "com.example.entregable02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzI7_NZ3ZZp5z6Xc9rd49iRmoU_EyRffk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
